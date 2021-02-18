@@ -1,148 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb5cd85-ddb4-4fe3-b8ef-71dd5486aec3" name="Default Changelist" comment="" />
+    <list default="true" id="2c3e32e7-4c11-4fb1-b59b-051a660a1e0f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1oeeKjkOSVfHxkM0JmoDuwuj0m2" />
+  <component name="ProjectId" id="1oeqfASUEi7MNXb1qJLt0WfMaXy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MainC">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.cliente.Main" />
-      <module name="Cliente_Servidor_TCP" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cliente.MainC" />
-      <module name="Cliente_Servidor_TCP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cliente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="servidor.MainS" />
-      <module name="Cliente_Servidor_TCP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="servidor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Cliente_Servidor_TCP" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Cliente_Servidor_TCP" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MainS" />
-      <item itemvalue="Application.MainC" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainC" />
-        <item itemvalue="Application.MainS" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8bb5cd85-ddb4-4fe3-b8ef-71dd5486aec3" name="Default Changelist" comment="" />
-      <created>1613651424523</created>
+      <changelist id="2c3e32e7-4c11-4fb1-b59b-051a660a1e0f" name="Default Changelist" comment="" />
+      <created>1613657506078</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613651424523</updated>
+      <updated>1613657506078</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1613653788052">
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1613658002940">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1613653788052" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1613653788052">
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1613658002940" />
+    <state x="22" y="112" key="new project wizard" timestamp="1613658280565">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1613653788052" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1613653788052">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1613653788052" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1613653788052">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1613653788052" />
+    <state x="22" y="112" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1613658280565" />
   </component>
 </project>
